@@ -1,0 +1,16 @@
+{
+  "name": "clinic-appointment-management-frontend",
+  "version": "1.0.0",
+  "description": "Award-winning Clinic Appointment Management System Frontend for Django REST Framework Backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite --open"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
